@@ -387,7 +387,7 @@ patch:
         ascii_mode: true
     com.microsoft.VSCode:            # Visual Studio Code
         ascii_mode: true
-        ascii_punct: true            # 中文状态输出英文标点(半角) 
+        #ascii_punct: true            # 中文状态输出英文标点(半角) 
     com.tencent.Lemon:               # 腾讯柠檬
         ascii_mode: true
     com.apple.dt.Xcode:              # Xcode

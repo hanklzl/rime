@@ -42,3 +42,5 @@ patch:
     #- { when: composing, accept: Control+b, send: Left }           # "Control+b" 移动光标
     #- { when: composing, accept: Control+f, send: Right }          # "Control+f" 向右选择候选词
     #- { when: composing, accept: Control+h, send: BackSpace }      # "Control+h" 删除输入码
+  switcher/hotkeys:
+    - F4
